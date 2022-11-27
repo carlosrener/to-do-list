@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "projeto node to-to-list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "carlos rener",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
